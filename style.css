@@ -1,0 +1,30 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.li-style-none {
+    list-style: none;
+
+}
+
+.nav-li {
+    float: left;
+    margin-right: 15px;
+}
+
+.bg-indigo {
+    background-color: indigo;
+}
+
+.text-orange {
+    color: orangered;
+}
+
+.font-logo {
+    font-family: 'Nabla', cursive;
+    
+}
+
+#hakkımızda-card {
+    background-color: #E9ECEF;
+}
